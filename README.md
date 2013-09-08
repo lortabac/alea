@@ -4,7 +4,23 @@ A tiny library to select a random element from a weighted list.
 
 ## Installation
 
-TODO
+### With composer
+
+If you use [composer](http://getcomposer.org/), you just need to add `lortabac/alea` to your `composer.json` file.
+
+```
+{
+    "require": {
+        "lortabac/alea": "dev-master"
+    }
+}
+```
+
+### Manual installation
+
+1. Copy the files in the `src` directory into your project.
+
+2. Include the class you need (`WeightedList.php` or `Dice.php`).
 
 ## Usage
 
