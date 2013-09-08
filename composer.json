@@ -1,0 +1,7 @@
+{
+    "name": "lortabac/alea",
+    "description": "Random selection from a weighted list",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
